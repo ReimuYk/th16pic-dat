@@ -1,0 +1,710 @@
+ENTRY 8
+Name: stgenm/stage02/enm2.png
+Format: 5
+Width: 512
+Height: 512
+Unknown1: 10
+HasData: 1
+THTX-Size: 524288
+THTX-Format: 5
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 0 64*96+0+0
+Sprite: 1 64*96+64+0
+Sprite: 2 64*96+128+0
+Sprite: 3 64*96+192+0
+Sprite: 4 64*96+256+0
+Sprite: 5 64*96+320+0
+Sprite: 6 64*96+384+0
+Sprite: 7 64*96+448+0
+Sprite: 8 64*96+0+96
+Sprite: 9 64*96+64+96
+Sprite: 10 64*96+128+96
+Sprite: 11 64*96+192+96
+Sprite: 12 64*96+256+96
+Sprite: 13 64*96+320+96
+Sprite: 14 64*96+384+96
+Sprite: 15 64*96+0+192
+Sprite: 16 64*96+64+192
+Sprite: 17 64*96+128+192
+Sprite: 18 64*96+192+192
+Sprite: 19 64*96+256+192
+Sprite: 20 64*96+320+192
+Sprite: 21 64*96+384+192
+Sprite: 22 80*32+160+240
+Sprite: 23 80*32+240+240
+Sprite: 24 80*32+320+240
+Sprite: 25 80*32+400+240
+Sprite: 26 80*32+160+272
+
+Script: 0
+Instruction: 0 0 304 7
+Instruction: 0 0 407 49 9 0.0f -2.0f 0.0f
+Instruction: 0 0 300 0
+Instruction: 7 0 300 1
+Instruction: 14 0 300 2
+Instruction: 21 0 300 1
+Instruction: 28 0 300 0
+Instruction: 35 0 300 1
+Instruction: 42 0 300 2
+Instruction: 49 0 300 1
+Instruction: 56 0 407 49 9 0.0f 2.0f 0.0f
+Instruction: 56 0 300 0
+Instruction: 63 0 300 1
+Instruction: 70 0 300 2
+Instruction: 77 0 300 1
+Instruction: 84 0 300 0
+Instruction: 91 0 300 1
+Instruction: 98 0 300 2
+Instruction: 105 0 300 3
+Instruction: 112 0 200 12 0
+
+Script: 1
+Instruction: 0 0 308
+Instruction: 0 0 304 7
+Instruction: 0 0 300 8
+Instruction: 3 0 300 9
+Instruction: 6 0 300 10
+Instruction: 9 0 300 11
+Instruction: 13 0 300 12
+Instruction: 17 0 300 13
+Instruction: 21 0 300 14
+Instruction: 22 0 200 56 6
+
+Script: 2
+Instruction: 0 0 304 7
+Instruction: 0 0 300 8
+Instruction: 3 0 300 9
+Instruction: 6 0 300 10
+Instruction: 9 0 300 11
+Instruction: 13 0 300 12
+Instruction: 17 0 300 13
+Instruction: 21 0 300 14
+Instruction: 22 0 200 48 6
+
+Script: 3
+Instruction: 0 0 308
+Instruction: 0 0 304 7
+Instruction: 0 0 300 10
+Instruction: 4 0 300 9
+Instruction: 8 0 300 8
+Instruction: 12 0 0
+Instruction: 12 0 407 49 9 0.0f -2.0f 0.0f
+Instruction: 12 0 300 0
+Instruction: 19 0 300 1
+Instruction: 26 0 300 2
+Instruction: 33 0 300 1
+Instruction: 40 0 300 0
+Instruction: 47 0 300 1
+Instruction: 54 0 300 2
+Instruction: 61 0 300 1
+Instruction: 68 0 407 49 9 0.0f 2.0f 0.0f
+Instruction: 68 0 300 0
+Instruction: 75 0 300 1
+Instruction: 82 0 300 2
+Instruction: 89 0 300 1
+Instruction: 96 0 300 0
+Instruction: 103 0 300 1
+Instruction: 110 0 300 2
+Instruction: 117 0 300 3
+Instruction: 124 0 200 64 12
+
+Script: 4
+Instruction: 0 0 304 7
+Instruction: 0 0 300 10
+Instruction: 4 0 300 9
+Instruction: 8 0 300 8
+Instruction: 12 0 0
+Instruction: 12 0 407 49 9 0.0f -2.0f 0.0f
+Instruction: 12 0 300 0
+Instruction: 19 0 300 1
+Instruction: 26 0 300 2
+Instruction: 33 0 300 1
+Instruction: 40 0 300 0
+Instruction: 47 0 300 1
+Instruction: 54 0 300 2
+Instruction: 61 0 300 1
+Instruction: 68 0 407 49 9 0.0f 2.0f 0.0f
+Instruction: 68 0 300 0
+Instruction: 75 0 300 1
+Instruction: 82 0 300 2
+Instruction: 89 0 300 1
+Instruction: 96 0 300 0
+Instruction: 103 0 300 1
+Instruction: 110 0 300 2
+Instruction: 117 0 300 3
+Instruction: 124 0 200 56 12
+
+Script: 5
+Instruction: 0 0 304 7
+Instruction: 0 0 407 13 9 0.0f 0.0f 0.0f
+Instruction: 0 0 300 15
+Instruction: 5 0 300 16
+Instruction: 10 0 300 17
+Instruction: 15 0 0
+Instruction: 15 0 407 49 9 0.0f -2.0f 0.0f
+Instruction: 15 0 300 18
+Instruction: 22 0 300 19
+Instruction: 29 0 300 20
+Instruction: 36 0 300 21
+Instruction: 43 0 300 18
+Instruction: 50 0 300 19
+Instruction: 57 0 300 20
+Instruction: 64 0 300 21
+Instruction: 71 0 407 49 9 0.0f 2.0f 0.0f
+Instruction: 71 0 300 18
+Instruction: 78 0 300 19
+Instruction: 85 0 300 20
+Instruction: 92 0 300 21
+Instruction: 99 0 300 18
+Instruction: 106 0 300 19
+Instruction: 113 0 300 20
+Instruction: 120 0 300 21
+Instruction: 127 0 200 84 15
+
+Script: 6
+Instruction: 0 0 308
+Instruction: 0 0 304 7
+Instruction: 0 0 407 13 9 0.0f 0.0f 0.0f
+Instruction: 0 0 300 15
+Instruction: 5 0 300 16
+Instruction: 10 0 300 17
+Instruction: 15 0 0
+Instruction: 15 0 407 49 9 0.0f -2.0f 0.0f
+Instruction: 15 0 300 18
+Instruction: 22 0 300 19
+Instruction: 29 0 300 20
+Instruction: 36 0 300 21
+Instruction: 43 0 300 18
+Instruction: 50 0 300 19
+Instruction: 57 0 300 20
+Instruction: 64 0 300 21
+Instruction: 71 0 407 49 9 0.0f 2.0f 0.0f
+Instruction: 71 0 300 18
+Instruction: 78 0 300 19
+Instruction: 85 0 300 20
+Instruction: 92 0 300 21
+Instruction: 99 0 300 18
+Instruction: 106 0 300 19
+Instruction: 113 0 300 20
+Instruction: 120 0 300 21
+Instruction: 127 0 200 92 15
+
+Script: 7
+Instruction: 0 0 304 7
+Instruction: 0 0 424 1
+Instruction: 0 0 302 1
+Instruction: 0 0 300 22
+Instruction: 4 0 300 23
+Instruction: 8 0 300 24
+Instruction: 12 0 300 25
+Instruction: 16 0 300 26
+Instruction: 20 0 200 36 0
+
+
+ENTRY 8
+Name: face/enemy2/face02no.png
+Format: 1
+Width: 256
+Height: 256
+X-Offset: 232
+Unknown2: 1
+HasData: 1
+THTX-Size: 121104
+THTX-Format: 1
+THTX-Width: 174
+THTX-Height: 174
+THTX-Zero: 0
+
+Sprite: 27 174*174+0+0
+
+
+ENTRY 8
+Name: face/enemy2/face02n2.png
+Format: 1
+Width: 256
+Height: 256
+X-Offset: 232
+Unknown2: 1
+HasData: 1
+THTX-Size: 121104
+THTX-Format: 1
+THTX-Width: 174
+THTX-Height: 174
+THTX-Zero: 0
+
+Sprite: 28 174*174+0+0
+
+
+ENTRY 8
+Name: face/dummy.png
+Format: 7
+Width: 4
+Height: 4
+HasData: 1
+THTX-Size: 16
+THTX-Format: 7
+THTX-Width: 4
+THTX-Height: 4
+THTX-Zero: 0
+
+Sprite: 29 4*4+0+0
+
+
+ENTRY 8
+Name: face/enemy2/face02an.png
+Format: 1
+Width: 256
+Height: 256
+X-Offset: 232
+Unknown2: 1
+HasData: 1
+THTX-Size: 121104
+THTX-Format: 1
+THTX-Width: 174
+THTX-Height: 174
+THTX-Zero: 0
+
+Sprite: 30 174*174+0+0
+
+
+ENTRY 8
+Name: face/enemy2/face02sw.png
+Format: 1
+Width: 256
+Height: 256
+X-Offset: 232
+Unknown2: 1
+HasData: 1
+THTX-Size: 121104
+THTX-Format: 1
+THTX-Width: 174
+THTX-Height: 174
+THTX-Zero: 0
+
+Sprite: 31 174*174+0+0
+
+
+ENTRY 8
+Name: face/dummy.png
+Format: 7
+Width: 4
+Height: 4
+HasData: 1
+THTX-Size: 16
+THTX-Format: 7
+THTX-Width: 4
+THTX-Height: 4
+THTX-Zero: 0
+
+Sprite: 32 4*4+0+0
+
+
+ENTRY 8
+Name: face/enemy2/face02pr.png
+Format: 1
+Width: 256
+Height: 256
+X-Offset: 232
+Unknown2: 1
+HasData: 1
+THTX-Size: 121104
+THTX-Format: 1
+THTX-Width: 174
+THTX-Height: 174
+THTX-Zero: 0
+
+Sprite: 33 174*174+0+0
+
+
+ENTRY 8
+Name: face/enemy2/face02sp.png
+Format: 1
+Width: 256
+Height: 256
+X-Offset: 232
+Unknown2: 1
+HasData: 1
+THTX-Size: 121104
+THTX-Format: 1
+THTX-Width: 174
+THTX-Height: 174
+THTX-Zero: 0
+
+Sprite: 34 174*174+0+0
+
+
+ENTRY 8
+Name: face/enemy2/face02lo.png
+Format: 1
+Width: 512
+Height: 1024
+Unknown2: 1
+HasData: 1
+THTX-Size: 1428000
+THTX-Format: 1
+THTX-Width: 510
+THTX-Height: 700
+THTX-Zero: 0
+
+Sprite: 35 510*700+0+0
+
+
+ENTRY 8
+Name: face/enemy2/face02bs.png
+Format: 1
+Width: 512
+Height: 1024
+Unknown2: 1
+HasData: 1
+THTX-Size: 1428000
+THTX-Format: 1
+THTX-Width: 510
+THTX-Height: 700
+THTX-Zero: 0
+
+Sprite: 36 510*700+0+0
+Sprite: 37 1*1+0+0
+
+Script: 8
+Instruction: 0 0 304 25
+Instruction: 0 0 300 36
+Instruction: 0 0 421 65537
+Instruction: 0 0 431 1
+Instruction: 0 0 403 0
+Instruction: 0 0 409 15 0 255
+Instruction: 0 0 400 96.0f 276.0f 0.0f
+Instruction: 0 0 304 25
+Instruction: 0 0 313 2
+Instruction: 0 0 311 1
+Instruction: 0 0 5 3
+Instruction: 0 0 304 26
+Instruction: 0 0 313 2
+Instruction: 0 0 407 15 2 64.0f 276.0f 0.0f
+Instruction: 0 0 408 15 0 96 96 96
+Instruction: 15 0 3
+Instruction: 15 0 5 2
+Instruction: 15 0 304 27
+Instruction: 15 0 313 2
+Instruction: 15 0 407 15 5 0.0f 260.0f 0.0f
+Instruction: 15 0 408 15 0 255 255 255
+Instruction: 30 0 3
+Instruction: 30 0 5 7
+Instruction: 30 0 407 2 0 -8.0f 252.0f 0.0f
+Instruction: 32 0 407 2 0 -4.0f 264.0f 0.0f
+Instruction: 34 0 407 2 0 8.0f 256.0f 0.0f
+Instruction: 36 0 407 2 0 4.0f 268.0f 0.0f
+Instruction: 38 0 407 2 0 0.0f 252.0f 0.0f
+Instruction: 40 0 407 2 0 -8.0f 264.0f 0.0f
+Instruction: 42 0 407 2 0 -4.0f 256.0f 0.0f
+Instruction: 44 0 407 2 0 8.0f 268.0f 0.0f
+Instruction: 46 0 407 2 0 -4.0f 256.0f 0.0f
+Instruction: 48 0 407 2 0 0.0f 264.0f 0.0f
+Instruction: 63 0 3
+Instruction: 63 0 5 8
+Instruction: 63 0 304 27
+Instruction: 63 0 313 2
+Instruction: 63 0 407 15 2 64.0f 276.0f 0.0f
+Instruction: 63 0 408 15 0 96 96 240
+Instruction: 78 0 3
+Instruction: 78 0 5 1
+Instruction: 78 0 407 30 6 96.0f 276.0f 0.0f
+Instruction: 78 0 409 30 0 0
+Instruction: 108 0 1
+Instruction: 108 0 5 17
+Instruction: 108 0 5 18
+Instruction: 108 0 5 19
+Instruction: 108 0 5 20
+Instruction: 108 0 5 21
+Instruction: 108 0 5 22
+Instruction: 108 0 5 23
+Instruction: 108 0 5 24
+Instruction: 108 0 300 36
+Instruction: 108 0 7
+Instruction: 108 0 5 25
+Instruction: 108 0 300 35
+Instruction: 108 0 7
+
+Script: 9
+Instruction: 0 0 300 27
+Instruction: 0 0 421 65537
+Instruction: 0 0 431 1
+Instruction: 0 0 403 0
+Instruction: 0 0 409 15 0 255
+Instruction: 0 0 400 328.0f 276.0f 0.0f
+Instruction: 0 0 304 25
+Instruction: 0 0 313 2
+Instruction: 0 0 311 1
+Instruction: 0 0 5 3
+Instruction: 0 0 304 26
+Instruction: 0 0 313 2
+Instruction: 0 0 407 15 2 296.0f 276.0f 0.0f
+Instruction: 0 0 408 15 0 96 96 96
+Instruction: 15 0 3
+Instruction: 15 0 5 2
+Instruction: 15 0 304 27
+Instruction: 15 0 313 2
+Instruction: 15 0 407 15 5 232.0f 260.0f 0.0f
+Instruction: 15 0 408 15 0 255 255 255
+Instruction: 30 0 3
+Instruction: 30 0 5 7
+Instruction: 30 0 407 2 0 224.0f 252.0f 0.0f
+Instruction: 32 0 407 2 0 228.0f 264.0f 0.0f
+Instruction: 34 0 407 2 0 240.0f 256.0f 0.0f
+Instruction: 36 0 407 2 0 236.0f 268.0f 0.0f
+Instruction: 38 0 407 2 0 232.0f 252.0f 0.0f
+Instruction: 40 0 407 2 0 224.0f 264.0f 0.0f
+Instruction: 42 0 407 2 0 228.0f 256.0f 0.0f
+Instruction: 44 0 407 2 0 240.0f 268.0f 0.0f
+Instruction: 46 0 407 2 0 228.0f 256.0f 0.0f
+Instruction: 48 0 407 2 0 232.0f 264.0f 0.0f
+Instruction: 63 0 3
+Instruction: 63 0 5 8
+Instruction: 63 0 304 27
+Instruction: 63 0 313 2
+Instruction: 63 0 407 15 2 296.0f 276.0f 0.0f
+Instruction: 63 0 408 15 0 96 96 240
+Instruction: 78 0 3
+Instruction: 78 0 5 1
+Instruction: 78 0 407 30 6 328.0f 276.0f 0.0f
+Instruction: 78 0 409 30 0 0
+Instruction: 108 0 1
+Instruction: 108 0 5 17
+Instruction: 108 0 300 27
+Instruction: 108 0 7
+Instruction: 108 0 5 18
+Instruction: 108 0 300 28
+Instruction: 108 0 7
+Instruction: 108 0 5 19
+Instruction: 108 0 300 29
+Instruction: 108 0 7
+Instruction: 108 0 5 20
+Instruction: 108 0 300 30
+Instruction: 108 0 7
+Instruction: 108 0 5 21
+Instruction: 108 0 300 31
+Instruction: 108 0 7
+Instruction: 108 0 5 22
+Instruction: 108 0 300 32
+Instruction: 108 0 7
+Instruction: 108 0 5 23
+Instruction: 108 0 300 33
+Instruction: 108 0 7
+Instruction: 108 0 5 24
+Instruction: 108 0 300 34
+Instruction: 108 0 7
+Instruction: 108 0 5 25
+Instruction: 108 0 300 37
+Instruction: 108 0 7
+
+Script: 10
+Instruction: 65535 0 403 0
+Instruction: 65535 0 304 24
+Instruction: 65535 0 313 2
+Instruction: 65535 0 400 464.0f 0.0f 0.0f
+Instruction: 0 0 502 9
+Instruction: 0 0 502 8
+Instruction: 0 0 3
+Instruction: 0 0 5 1
+Instruction: 30 0 1
+
+
+ENTRY 8
+Name: stgenm/stage02/cdbg02a.png
+Format: 5
+Width: 512
+Height: 512
+HasData: 1
+THTX-Size: 524288
+THTX-Format: 5
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 38 384*448+128+224
+Sprite: 39 384*448+64+128
+
+Script: 11
+Instruction: 0 0 403 0
+Instruction: 0 0 304 4
+Instruction: 0 0 500 14
+Instruction: 0 0 500 15
+Instruction: 0 0 500 12
+Instruction: 0 0 3
+
+Script: 12
+Instruction: 65535 0 304 4
+Instruction: 65535 0 300 38
+Instruction: 65535 0 400 0.0f 224.0f 0.0f
+Instruction: 65535 0 403 0
+Instruction: 65535 0 409 60 0 128
+Instruction: 65535 0 425 0.00045454546f
+Instruction: 65535 0 426 0.00083333335f
+Instruction: 65535 0 303 1
+Instruction: 0 0 3
+
+Script: 13
+Instruction: 65535 0 304 4
+Instruction: 65535 0 300 38
+Instruction: 65535 0 400 0.0f 224.0f 0.0f
+Instruction: 65535 0 403 0
+Instruction: 65535 0 409 60 0 128
+Instruction: 65535 0 425 0.00045454546f
+Instruction: 65535 0 426 0.00083333335f
+Instruction: 65535 0 303 1
+Instruction: 0 0 3
+
+
+ENTRY 8
+Name: stgenm/stage02/cdbg02b.png
+Format: 5
+Width: 512
+Height: 512
+HasData: 1
+THTX-Size: 524288
+THTX-Format: 5
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 40 512*512+0+0
+Sprite: 41 384*448+0+128
+
+Script: 14
+Instruction: 65535 0 304 4
+Instruction: 65535 0 302 1
+Instruction: 65535 0 300 40
+Instruction: 65535 0 402 1.15625f 1.15625f
+Instruction: 65535 0 400 0.0f 224.0f 0.0f
+Instruction: 65535 0 403 0
+Instruction: 65535 0 409 60 0 255
+Instruction: 65535 0 415 0.0f 0.0f 0.0034906585f
+Instruction: 0 0 3
+
+Script: 15
+Instruction: 65535 0 304 4
+Instruction: 65535 0 302 1
+Instruction: 65535 0 300 40
+Instruction: 65535 0 402 1.15625f 1.15625f
+Instruction: 65535 0 400 0.0f 224.0f 0.0f
+Instruction: 65535 0 403 0
+Instruction: 65535 0 409 60 0 255
+Instruction: 65535 0 303 1
+Instruction: 65535 0 415 0.0f 0.0f -0.0034924038f
+Instruction: 0 0 3
+
+
+ENTRY 8
+Name: face/enemy2/ename01.png
+Format: 5
+Width: 256
+Height: 128
+Unknown2: 1
+HasData: 1
+THTX-Size: 65536
+THTX-Format: 5
+THTX-Width: 256
+THTX-Height: 128
+THTX-Zero: 0
+
+Sprite: 42 256*128+0+0
+
+Script: 16
+Instruction: 0 0 313 2
+Instruction: 0 0 400 640.0f 740.0f 0.0f
+Instruction: 0 0 403 0
+Instruction: 0 0 500 18
+Instruction: 0 0 500 17
+Instruction: 300 0 0
+Instruction: 300 0 5 1
+Instruction: 320 0 1
+
+Script: 17
+Instruction: 0 0 431 1
+Instruction: 0 0 307 1
+Instruction: 0 0 421 0
+Instruction: 0 0 304 27
+Instruction: 0 0 313 2
+Instruction: 0 0 300 42
+Instruction: 0 0 402 1.0f 0.0f
+Instruction: 0 0 302 0
+Instruction: 0 0 412 20 4 1.0f 1.0f
+Instruction: 0 0 400 0.0f 0.0f 0.0f
+Instruction: 0 0 403 0
+Instruction: 0 0 409 30 0 255
+Instruction: 200 0 0
+Instruction: 200 0 302 1
+Instruction: 200 0 311 0
+Instruction: 200 0 407 120 3 -24.0f 0.0f 0.0f
+Instruction: 300 0 0
+Instruction: 300 0 5 1
+Instruction: 300 0 409 20 0 0
+Instruction: 320 0 1
+
+
+ENTRY 8
+Name: face/enemy2/enamebk.png
+Format: 5
+Width: 128
+Height: 128
+Unknown2: 1
+HasData: 1
+THTX-Size: 32768
+THTX-Format: 5
+THTX-Width: 128
+THTX-Height: 128
+THTX-Zero: 0
+
+Sprite: 43 128*128+0+0
+
+Script: 18
+Instruction: 65535 0 431 1
+Instruction: 65535 0 307 1
+Instruction: 65535 0 304 27
+Instruction: 65535 0 313 2
+Instruction: 65535 0 302 1
+Instruction: 65535 0 300 43
+Instruction: 65535 0 400 -32.0f -32.0f 0.0f
+Instruction: 65535 0 407 320 0 32.0f 32.0f 0.0f
+Instruction: 65535 0 402 0.0f 0.0f
+Instruction: 65535 0 412 20 4 1.0f 1.0f
+Instruction: 65535 0 415 0.0f 0.0f 0.01308997f
+Instruction: 65535 0 403 0
+Instruction: 65535 0 409 120 0 255
+Instruction: 300 0 0
+Instruction: 300 0 5 1
+Instruction: 300 0 409 20 0 0
+Instruction: 320 0 1
+
+
+ENTRY 8
+Name: face/enemy2/face02ct.png
+Format: 1
+Width: 512
+Height: 512
+HasData: 1
+THTX-Size: 517280
+THTX-Format: 1
+THTX-Width: 305
+THTX-Height: 424
+THTX-Zero: 0
+
+Sprite: 44 305*424+0+0
+
+Script: 19
+Instruction: 0 0 300 44
+Instruction: 0 0 304 6
+Instruction: 0 0 421 65536
+Instruction: 0 0 302 2
+Instruction: 0 0 400 420.0f -82.0f 0.0f
+Instruction: 0 0 404 0 0 0
+Instruction: 0 0 408 30 0 255 255 255
+Instruction: 0 0 407 30 0 36.0f 14.0f 0.0f
+Instruction: 30 0 407 90 0 4.0f 30.0f 0.0f
+Instruction: 120 0 407 30 0 -380.0f 190.0f 0.0f
+Instruction: 120 0 408 30 0 0 0 0
+Instruction: 150 0 1
+
+
